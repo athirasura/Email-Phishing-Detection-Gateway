@@ -1,0 +1,18 @@
+From: PayPal Security <security@paypa1-verify.tk>
+Reply-To: collect@scammer-domain.ru
+Return-Path: <bounce@scammer-domain.ru>
+To: victim@example.com
+Subject: Urgent: Your account has been suspended
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+Content-Type: text/plain
+
+Dear customer,
+
+We detected unusual login activity on your account. Your PayPal account has
+been suspended for security reasons. Verify your password and billing
+information immediately to avoid permanent closure.
+
+Click here to confirm your identity: http://paypa1-verify.tk/login@secure/update?id=8839271882737463
+Or use this link: http://192.168.44.12/paypal/verify
+
+Failure to act within 24 hours will result in permanent account closure.
