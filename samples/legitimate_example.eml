@@ -1,0 +1,16 @@
+From: Sarah Chen <sarah.chen@company.com>
+Reply-To: sarah.chen@company.com
+Return-Path: <sarah.chen@company.com>
+To: team@company.com
+Subject: Notes from this morning's standup
+Authentication-Results: mx.company.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain
+
+Hi team,
+
+Attaching the notes from this morning's standup. Let me know if I missed
+anything. Our project sync is scheduled for Thursday at 2pm, agenda is in the
+shared doc here: https://docs.company.com/agenda
+
+Thanks,
+Sarah
